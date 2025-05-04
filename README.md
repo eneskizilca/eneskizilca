@@ -30,7 +30,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eneskizilca&" alt="eneskizilca" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eneskizilca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eneskizilca/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eneskizilca/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eneskizilca/eneskizilca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eneskizilca/eneskizilca/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eneskizilca/eneskizilca/output/github-contribution-grid-snake.svg">
 </picture>
