@@ -2,7 +2,7 @@
   <img src="https://media.istockphoto.com/id/998343990/tr/vektör/programcı-ofis-masası-bilgisayar-üzerinde-çalışan-yazılım-veya-web-geliştirici.jpg?s=612x612&w=0&k=20&c=BcMBMkNkovLWBFvXQ8iKgIWueNZNU1Bs-hufRioepq8=" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
-<h3 align="center">A software engineering student and web developer.</h3>
+<h3 align="center">A software engineering student and full-stack developer.</h3>
 
 - 🔭 I’m currently working on **Node.js, React, Java, C#**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **enes@eneskizilca.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1iPd4zDky5Z9fzJX2iQwgUx9NGIyaK_1P/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://bit.ly/eneskizilca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
