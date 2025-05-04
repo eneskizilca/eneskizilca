@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eneskizilca&" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eneskizilca&" alt="GitHub Streak" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eneskizilca/eneskizilca/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eneskizilca/eneskizilca/output/github-contribution-grid-snake.svg">
