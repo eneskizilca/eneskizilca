@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/998343990/tr/vektör/programcı-ofis-masası-bilgisayar-üzerinde-çalışan-yazılım-veya-web-geliştirici.jpg?s=612x612&w=0&k=20&c=BcMBMkNkovLWBFvXQ8iKgIWueNZNU1Bs-hufRioepq8=" alt="MasterHead" />
+  <img src="https://github.com/eneskizilca/eneskizilca/blob/main/Ekran%20Resmi%202025-05-04%2012.50.37.png" />
 </div>
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
 <h3 align="center">A software engineering student and full-stack developer.</h3>
