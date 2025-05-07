@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **enes@eneskizilca.com**
 
-- 📄 Know about my experiences [My CV](https://bit.ly/eneskizilca)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/142pvyP6Y-SaYU1GKCFc2Q3YxiuGZLOaV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
