@@ -1,6 +1,8 @@
+ <!–
 <div align="center">
   <img src="https://github.com/eneskizilca/eneskizilca/blob/main/Ekran%20Resmi%202025-05-04%2014.01.20.png" />
 </div>
+->
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
 <h3 align="center">A software engineering student and full-stack developer.</h3>
 
