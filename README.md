@@ -46,7 +46,6 @@
 
 
 <div>
-  
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -60,6 +59,8 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
+
+<h3 align="left"> </h3>
 
 <p align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=eneskizilca&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
