@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
-<h3 align="center">A software engineering student and full-stack developer.</h3>
+<h3 align="center">A software engineering student</h3>
 
 - 🔭 I’m currently working on **Node.js, React, Java, C#**
 
