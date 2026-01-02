@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **enes@eneskizilca.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1m5aCCGga8XptMCvntFOSAS61FZFvooWA?usp=sharing)
+- 📄 Know about my experiences [My CV](https://eneskizilca.com/my-cv)
 
 - 🧑🏻‍💻 Visit my website [here](https://eneskizilca.com)
 
