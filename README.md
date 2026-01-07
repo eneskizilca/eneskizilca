@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **enes@eneskizilca.com**
 
-- 📄 Know about my experiences [My CV](https://eneskizilca.com/my-cv)
-
 - 🧑🏻‍💻 Visit my website [here](https://eneskizilca.com)
 
 <h3 align="left">Connect with me:</h3>
