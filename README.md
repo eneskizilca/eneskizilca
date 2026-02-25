@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
 <h3 align="center">A End to End Software Engineer</h3>
 
-- 🔭 I’m currently working on **Software Architecture, DevOps and more**
+- 🔭 I’m currently working on **DevOps & Software Architecture and more**
 
-- 💬 Ask me about **Full Stack Developing & DevOps & Cloud**
+- 💬 Ask me about **DevOps & Cloud & Full Stack Developing**
 
 - 📫 How to reach me **enes@eneskizilca.com**
 
