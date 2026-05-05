@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eneskizilca" alt="Ziyaretçi Sayısı" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Enes KIZILCA</h1>
 <h3 align="center">Software Engineer - DevOps & Cloud & Network</h3>
 
